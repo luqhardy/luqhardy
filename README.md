@@ -1,7 +1,7 @@
 My name is Luqman Hadi. I am currently a Video Editor, Graphics Designer and Motion Graphics Designer.
 I also aspire to learn programming and be a Software Engineer in the next 5 years, which is why I created this Github account on March 2022.
 I have been interested in programming and UI/UX Design for a long time, and figured that it would be great to learn it in my free time.
-Very interested in switching Linux distros every once in a while and open-source software.
+Very interested in switching Linux distros every once in a while and open-source software in general.
 Currently self-learning HTML, Python and Japanese.
 
 You can reach me on @luqhardy on Instagram or Twitter.
