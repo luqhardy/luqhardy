@@ -11,7 +11,7 @@ You can reach me on @luqhardy on Instagram or Twitter.
 プログラミングと日本語に大興味があります。
 よろしくお願いいたします。
 
-私に会話する場合は、インスタグラムとツイッター「＠luqhardy」です。
+私に会話したい場合は、インスタグラムとツイッター「＠luqhardy」です。
 
 <!---
 luqhardy/luqhardy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
