@@ -5,6 +5,14 @@ Very interested in switching Linux distros every once in a while and open-source
 Currently self-learning HTML, Python and Japanese.
 
 You can reach me on @luqhardy on Instagram or Twitter.
+
+ルクマン・ハディです。
+現在はビデオプロデューサーとグラフィックデザイナー。
+プログラミングと日本語に大興味があります。
+よろしくお願いいたします。
+
+私に会話する場合は、インスタグラムとツイッター「＠luqhardy」です。
+
 <!---
 luqhardy/luqhardy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
