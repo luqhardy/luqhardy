@@ -18,7 +18,7 @@ JLPT N1 (Passed in 2023)\
 Business Japanese Proficiency Test J2 (Obtained in 2025)\
 Kansai University – JASSO Exchange Program (Fall 2023, Graduated)\
 MEXT Scholarship – JASSO Japanese Language Education Center, Preparatory Course (Graduated 2025)\
-MEXT Scholarship – Kobe Institute of Computing, Department of AI System Development (2024–Present)\
+MEXT Scholarship – Kobe Institute of Computing, Department of AI System Development (2025–Present)\
 Wownas Co., Ltd. (wownas.com) – Interpreter & Graphic Designer\
 RGB Monster Limited (UK) – Social Media Manager & Video Editor (Remote) 
 
