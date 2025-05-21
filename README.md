@@ -10,7 +10,7 @@ On GitHub, I'll be sharing what I've learned and the projects I've worked on. Th
 ビジネス日本語テスト J2（2025年取得）\
 関西大学 JASSO交換留学生プログラム（2023年秋）\
 文部科学省 国費留学生・JASSO日本語教育センター 進学課程コース（2025年卒業）\
-文部科学省 国費留学生・神戸電子専門学校 AIシステム開発学科（2024年〜）\
+文部科学省 国費留学生・神戸電子専門学校 AIシステム開発学科（2025年〜）\
 株式会社ワオナス (wownas.com)　通訳・グラフィクデザイン担当 （リモート）\
 RGB Monster Limited UK SNS担当・動画編集　（リモート）
 
