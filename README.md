@@ -1,6 +1,12 @@
 ### こんにちは、ルクマン・ハディです！ 👋 (Hi there, I'm Luqman Hadi!)
 
-**神戸電子専門学校**でAIシステム開発を学ぶ学生です。AI、プログラミング、そして革新的なソリューションを創造することに情熱を注いでいます。ここでは、素晴らしいものを構築していく私の旅と、その過程で得た知識をデベロッパーコミュニティと共有していきたいと思っています。
+はじめまして！神戸電子専門学校のAIシステム開発学科に在籍しているルクマン・ハディです。
+AIやプログラミング、システム開発に情熱を持って取り組んでいます。
+GitHubでは、学んだことや制作物をシェアしていきますので、よろしくお願いします！
+
+Nice to meet you! I'm Luqman Hadi, a student currently enrolled at the AI System Development Department at Kobe Institute of Computing.
+I'm passionate about AI, programming, and system development.
+On GitHub, I'll be sharing what I've learned and the projects I've worked on. Thank you for stopping by!
 
 ---
 
