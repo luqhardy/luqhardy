@@ -53,6 +53,15 @@ GitHubでは、学んだことや制作物をシェアしていきますので�
 
 ---
 
+### 🌐 私のウェブサイト (My Websites)
+
+私の作品や詳細については、ぜひ以下のサイトをご覧ください！
+
+* **ポートフォリオ:** [pr.luqmanhadi.com](https://pr.luqmanhadi.com)
+* **個人ウェブサイト:** [luqmanhadi.com](https://luqmanhadi.com)
+
+---
+
 ### 📫 繋がりましょう (Let's Connect!)
 
 他の学生、開発者、専門家の方々と繋がることをいつでも歓迎しています。
@@ -60,3 +69,5 @@ GitHubでは、学んだことや制作物をシェアしていきますので�
 <p align="left">
 <a href="https://www.linkedin.com/in/luqman-hadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luqman-hadi" height="30" width="40" /></a>
 </p>
+
+---
