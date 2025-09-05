@@ -6,6 +6,19 @@ GitHubでは、学んだことや制作物をシェアしていきますので�
 
 ---
 
+### 🏆 受賞歴 (Awards)
+
+**『ナノコネ コンペ形式インターンシップ』最優秀賞**
+
+この度、株式会社ナノコネクト様主催の『ナノコネ コンペ形式インターンシップ』において、最優秀賞を受賞いたしましたことをご報告申し上げます。
+全国300名以上の大学生の中から、私のNext.js/React.jsプロジェクト『ナノメーター』（[nanometer.luqmanhadi.com](https://nanometer.luqmanhadi.com)）を選出していただきました。このアプリケーションは、React、TypeScript、Tailwind CSS、Firebaseを用いて開発しました。
+このような素晴らしい機会をいただき、株式会社ナノコネクトの皆様には心より感謝申し上げます。今回の経験を糧に、今後もフロントエンド開発のスキルを磨き、ユーザー中心のソリューション開発に貢献していきたいと考えております。
+
+I am thrilled to announce that I have been selected as the winner of the 『ナノコネ コンペ形式インターンシップ』 (Nanoconnect Competition-Style Internship), hosted by 株式会社ナノコネクト (NANO CONNECT Inc.). My project, 『ナノメーター』 ([nanometer.luqmanhadi.com](https://nanometer.luqmanhadi.com)), was chosen from over 300 submissions by university students across Japan.
+『ナノメーター』 is a web application built with Next.js, TypeScript, Tailwind CSS, and Firebase. I am incredibly grateful for this recognition and would like to extend my sincere thanks to the team at NANO CONNECT Inc. for this valuable opportunity. This experience has further solidified my passion for front-end development and creating user-centric solutions.
+
+---
+
 ### 💻 私の技術スタック (My Tech Stack)
 
 私が使用している技術とツールの一部です。
@@ -69,5 +82,3 @@ GitHubでは、学んだことや制作物をシェアしていきますので�
 <p align="left">
 <a href="https://www.linkedin.com/in/luqman-hadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luqman-hadi" height="30" width="40" /></a>
 </p>
-
----
