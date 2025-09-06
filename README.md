@@ -4,7 +4,7 @@
 日本語(JLPT N1, BJT J2)と英語(TOEIC 985)の高度な語学力を活かし、株式会社ワオナスで通訳を経験。関西大学への交換留学や、ITパスポート、アドビ認定プロフェッショナル資格などを通じて、技術とビジネス、クリエイティブを繋ぐスキルを磨いてきました。GitHubでは、学んだことや制作物をシェアしていきますので、よろしくお願いします！
 Hi there, I'm Luqman Hadi! I'm an AI System Development student at the Kobe Institute of Computing and a recipient of the MEXT scholarship from the Japanese government.
 
-With a strong command of Japanese (JLPT N1, BJT J2) and English (TOEIC 985), I've had the opportunity to work as an interpreter at Waonus Inc. My background includes a JASSO scholarship exchange at Kansai University and certifications like the IT Passport and Adobe Certified Professional, blending my technical skills with business and creative competencies. On GitHub, I'll be sharing what I've learned and built. Let's connect!
+With a strong command of Japanese (JLPT N1, BJT J2) and English (TOEIC 985), I've had the opportunity to work as an interpreter at Wownas Inc. My background includes a JASSO scholarship exchange at Kansai University and certifications like the IT Passport and Adobe Certified Professional, blending my technical skills with business and creative competencies. On GitHub, I'll be sharing what I've learned and built. Let's connect!
 
 ---
 
