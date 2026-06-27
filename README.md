@@ -1,5 +1,3 @@
-Here is your updated profile, incorporating your full name, pronouns, the new technologies in your tech stack, your JASSO/Kansai University background, and the updated dates for your AWS, Azure, and IPA certifications based on your LinkedIn bio!
-
 ### こんにちは、ルクマン・ハディ・スハイリです！ 👋 (Hi there, I'm Luqman Hadi Suhairi!)
 
 **Pronouns: He/Him**
